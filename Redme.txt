@@ -1,0 +1,13 @@
+open cmd 
+then command net start MySQL80 / for stop connection net stop MySQL80
+then open MySQL Workbench 
+in my sql connection enter database password pihu123
+then estabilished connection 
+for check data bsae query is 
+use employeedata;
+show tables;
+then its show all data 
+
+after that open smi login 
+enter user name and password 
+admin / admin123
